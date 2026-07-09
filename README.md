@@ -21,7 +21,7 @@
 
 - 📍 Based in **Nagapattinam, Tamil Nadu, India**
 - 🎓 **B.Sc. Computer Science (Data Science)** — Sri Ramachandra Institute of Higher Education And Research
-- 🎓 Currently pursuing **M.Sc. [Your Program Name]** (Ongoing)
+- 🎓 Currently pursuing **M.Sc. Computer Science (Data Science)**-Vellore Institute of Technology (Ongoing)
 - 💼 Currently working as a **Data Analyst Intern**, previously interned at **Cognifyz Technologies** and **Saksoft Pvt. Ltd.**
 - 🛠️ Comfortable with **Python, SQL, Power BI, Tableau, NLTK, Hugging Face Transformers & LLaMA 2**
 - 📚 Currently learning **Advanced SQL, ML Deployment, and Cloud Analytics**
