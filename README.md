@@ -17,11 +17,12 @@
 <!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 👩‍💻 About Me
+<img src="https://img.shields.io/badge/👩‍💻_ABOUT_ME-70A5FD?style=for-the-badge&labelColor=0D1117" />
+<br><br>
 
 - 📍 Based in **Nagapattinam, Tamil Nadu, India**
 - 🎓 **B.Sc. Computer Science (Data Science)** — Sri Ramachandra Institute of Higher Education And Research
-- 🎓 Currently pursuing **M.Sc. Computer Science (Data Science)**-Vellore Institute of Technology (Ongoing)
+- 🎓 Currently pursuing **M.Sc. [Your Program Name]** (Ongoing)
 - 💼 Currently working as a **Data Analyst Intern**, previously interned at **Cognifyz Technologies** and **Saksoft Pvt. Ltd.**
 - 🛠️ Comfortable with **Python, SQL, Power BI, Tableau, NLTK, Hugging Face Transformers & LLaMA 2**
 - 📚 Currently learning **Advanced SQL, ML Deployment, and Cloud Analytics**
@@ -181,7 +182,7 @@
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.Sc. Computer Science (Data Science) | Sri Ramachandra Institute of Higher Education And Research | 2021 – 2024 | GPA: 73% |
-| M.Sc.Computer Science (Data Science) | Vellore Institute of Technology | Ongoing |2025-2027 |
+| M.Sc. [Your Program Name] | [Your University Name] | Ongoing | — |
 
 </div>
 
