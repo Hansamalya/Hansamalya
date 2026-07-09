@@ -9,40 +9,24 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hansamalya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hansamalyab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hansamalya&color=70a5fd&style=flat-square&label=Profile+Views" />
+  <a href="https://www.linkedin.com/in/hansamalya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hansamalyab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hansamalya&color=70a5fd&style=for-the-badge&label=Profile+Views" />
 </p>
 
-<!-- ─────────────────────────────  ABOUT ME (CODE BLOCK)  ───────────────────────────── -->
+<!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 👩‍💻 About Me
 
-```python
-class Hansamalya:
-    def __init__(self):
-        self.name = "Hansamalya B"
-        self.location = "Nagapattinam, Tamil Nadu, India"
-        self.degree = "B.Sc. Computer Science (Data Science)"
-        self.role = "Data Analyst Intern | Data Science Graduate"
-
-        self.stack = {
-            "languages": ["Python", "SQL"],
-            "visualization": ["Power BI", "Tableau"],
-            "nlp_ml": ["NLTK", "Hugging Face Transformers", "LLaMA 2"],
-            "platforms": ["Google Colab", "Jupyter Notebook", "Streamlit"]
-        }
-
-        self.currently_learning = ["Advanced SQL", "Machine Learning Deployment", "Cloud Analytics"]
-        self.fun_fact = "I turn messy datasets into dashboards people actually enjoy reading 📊"
-
-    def motto(self):
-        return "Data tells a story — I just help it speak clearly."
-
-me = Hansamalya()
-print(me.motto())
-```
+- 📍 Based in **Nagapattinam, Tamil Nadu, India**
+- 🎓 **B.Sc. Computer Science (Data Science)** — Sri Ramachandra Institute of Higher Education And Research
+- 🎓 Currently pursuing **M.Sc. [Your Program Name]** (Ongoing)
+- 💼 Currently working as a **Data Analyst Intern**, previously interned at **Cognifyz Technologies** and **Saksoft Pvt. Ltd.**
+- 🛠️ Comfortable with **Python, SQL, Power BI, Tableau, NLTK, Hugging Face Transformers & LLaMA 2**
+- 📚 Currently learning **Advanced SQL, ML Deployment, and Cloud Analytics**
+- ⚡ Fun fact: I turn messy datasets into dashboards people actually enjoy reading 📊
+- 💬 *"Data tells a story — I just help it speak clearly."*
 
 <br clear="right"/>
 
@@ -51,35 +35,35 @@ print(me.motto())
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 **Data & Visualization**
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 **NLP & Machine Learning**
 <p>
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLaMA%202-0467DF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLaMA%202-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 **Platforms & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <!-- ─────────────────────────────  GITHUB STATS  ───────────────────────────── -->
@@ -197,6 +181,7 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.Sc. Computer Science (Data Science) | Sri Ramachandra Institute of Higher Education And Research | 2021 – 2024 | GPA: 73% |
+| M.Sc.Computer Science (Data Science) | Vellore Institute of Technology | Ongoing |2025-2027 |
 
 </div>
 
