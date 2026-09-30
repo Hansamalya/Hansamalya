@@ -17,21 +17,21 @@
 <!-- ─────────────────────────────  ABOUT ME  ───────────────────────────── -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 👩‍💻 About Me
+###  About Me
 
-- 📍 Based in **Nagapattinam, Tamil Nadu, India**
-- 🎓 **B.Sc. Computer Science (Data Science)** — Sri Ramachandra Institute of Higher Education And Research
-- 🎓 Pursuing **M.Sc. Computer Science (Data Science)** — Vellore Institute of Technology (2025 – 2027)
-- 💼 Currently working as a **Data Analyst Intern**, previously interned at **Cognifyz Technologies** and **Saksoft Pvt. Ltd.**
-- 🛠️ Comfortable with **Python, SQL, Power BI, Tableau, NLTK, Hugging Face Transformers & LLaMA 2**
-- 📚 Currently learning **Advanced SQL, ML Deployment, and Cloud Analytics**
-- ⚡ Fun fact: I turn messy datasets into dashboards people actually enjoy reading 📊
-- 💬 *"Data tells a story — I just help it speak clearly."*
+-  Based in **Nagapattinam, Tamil Nadu, India**
+-  **B.Sc. Computer Science (Data Science)** — Sri Ramachandra Institute of Higher Education And Research
+-  Pursuing **M.Sc. Computer Science (Data Science)** — Vellore Institute of Technology (2025 – 2027)
+-  Currently working as a **Data Analyst Intern**, previously interned at **Cognifyz Technologies** and **Saksoft Pvt. Ltd.**
+-  Comfortable with **Python, SQL, Power BI, Tableau, NLTK, Hugging Face Transformers & LLaMA 2**
+-  Currently learning **Advanced SQL, ML Deployment, and Cloud Analytics**
+-  Fun fact: I turn messy datasets into dashboards people actually enjoy reading 📊
+-  *"Data tells a story — I just help it speak clearly."*
 
 <br clear="right"/>
 
 <!-- ─────────────────────────────  TECH BADGES  ───────────────────────────── -->
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p>
@@ -67,7 +67,7 @@
 </p>
 
 <!-- ─────────────────────────────  GITHUB STATS  ───────────────────────────── -->
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/hansamalya">
@@ -94,7 +94,7 @@
 </div>
 
 <!-- ─────────────────────────────  WORK EXPERIENCE  ───────────────────────────── -->
-### 💼 Work Experience
+###  Work Experience
 
 <details>
 <summary><b>Cognifyz Technologies — Data Analyst Intern (Remote)</b> | July 2024 – August 2024</summary>
@@ -135,7 +135,7 @@
 </details>
 
 <!-- ─────────────────────────────  FEATURED PROJECTS  ───────────────────────────── -->
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
 
@@ -158,7 +158,7 @@
 </details>
 
 <!-- ─────────────────────────────  ACHIEVEMENTS  ───────────────────────────── -->
-### 🏆 Achievements & Certifications
+###  Achievements & Certifications
 
 <div align="center">
 
@@ -174,7 +174,7 @@
 </div>
 
 <!-- ─────────────────────────────  EDUCATION  ───────────────────────────── -->
-### 🎓 Education
+###  Education
 
 <div align="center">
 
@@ -185,7 +185,7 @@
 
 </div>
 
-### 📚 Currently Learning
+###  Currently Learning
 
 ```text
 🧱 Advanced SQL           → Window Functions, Query Optimization
